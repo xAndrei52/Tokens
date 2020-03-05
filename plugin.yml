@@ -1,8 +1,8 @@
 name: TokenAPI
-main: onebone\pointapi\PointAPI
+main: onebone\tokenapi\TokenAPI
 api: [3.11.1, 3.11.3, 3.11.4, 3.11.5]
 version: 2.0.9
-author: onebone | Edit By AlexItz16
+author: onebone | Edit By AlexItz16 - xAndrei52 - jaylac2000
 permissions:
  pointapi.*:
   default: op
