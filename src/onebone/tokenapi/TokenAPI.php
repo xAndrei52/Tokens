@@ -18,7 +18,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-namespace onebone\pointapi;
+namespace onebone\tokenapi;
 
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
